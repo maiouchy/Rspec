@@ -1,0 +1,4 @@
+Factory.define :user do |f|
+  f.name "Billy"
+  f.age 12
+end
